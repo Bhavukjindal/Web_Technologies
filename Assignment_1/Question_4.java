@@ -31,7 +31,7 @@ public class Question_4 {
         }else if(c==0){
             Swap_without_using_temp(num1, num2);
         }else{
-            System.out.println("Enetered valu of c is not 0/1");
+            System.out.println("Enetered value of c is not 0/1");
         }
     }
 }
