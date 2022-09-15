@@ -1,0 +1,6 @@
+Enter first number: 
+5
+Enter second number: 
+6
+Addition of two number is : 11
+Subtraction of two number is : -1
