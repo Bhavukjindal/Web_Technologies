@@ -1,0 +1,6 @@
+Enter first number: 
+5
+Enter Second number: 
+3
+The quotient is: 1
+The remainder is: 2

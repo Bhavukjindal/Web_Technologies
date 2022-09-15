@@ -1,0 +1,24 @@
+// output using temp var
+
+Enter first number: 
+5
+Enter Second number: 
+1
+Enter 1 to swap using temporary var and 0 to swap without using temporary var: 
+1
+The First number is: 1
+The Second number is: 5
+
+
+
+// output without using temp var
+
+Enter first number: 
+5
+Enter Second number: 
+1
+Enter 1 to swap using temporary var and 0 to swap without using temporary var: 
+0
+The First number is: 1
+The Second number is: 5
+PS C:\Users\Bhavuk\Desktop\Java\Java\Assignment_1> 
