@@ -1,5 +1,0 @@
-Enter first number: 
-1.2
-Enter Second number: 
-1.2
-The product is: 1.44
