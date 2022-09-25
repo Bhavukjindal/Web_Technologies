@@ -1,0 +1,11 @@
+Test case1:
+
+Enter score: 
+20
+New Score is : 20.0
+
+Test Case2:
+
+Enter score: 
+81
+New Score is : 86.0
