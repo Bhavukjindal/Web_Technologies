@@ -1,0 +1,15 @@
+Number taken for sample test is: 64
+isZero: false
+isPositive: true
+isNegative: false
+isOdd: false
+isEven: true
+isPrime: false
+isArmstrong: false
+getFactorial: 1.2688693218588417E89
+getSqrt: 8.0
+getSqr: 4096.0
+sumDigits: 10.0
+getReverse: 46.0
+listFactor: 1 2 4 8 16 32 64
+dispBinary: 1000000
