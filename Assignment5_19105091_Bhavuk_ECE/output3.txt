@@ -1,0 +1,11 @@
+Enter number of students: 2
+Enter name of student 1: A
+Enter marks in physics, chemistry, mathematics respectively seperated by space: 20 18 20
+Enter name of student 2: B       
+Enter marks in physics, chemistry, mathematics respectively seperated by space: 18 20 20
+Total marks of student 1: 58
+Total marks of student 2: 58
+Average marks of the class in physics: 19.0
+Average marks of the class in chemistry: 19.0
+Average marks of the class in chemistry: 20.0
+Average total marks of the class: 58.0
