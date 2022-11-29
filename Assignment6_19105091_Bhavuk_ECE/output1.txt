@@ -1,0 +1,12 @@
+test case 1:
+
+Input first number : 1
+Input second number : 0
+java.lang.ArithmeticException: invalid input!! either of the numbers cannot be zero
+
+test case 2:
+
+Input first number : 5
+Input second number : 6
+Division of the two numbers is : 0.8333333333333334
+Multiplication of the two numbers is : 30

@@ -1,0 +1,4 @@
+Input first number : 1
+Input second number : 5
+Addition is : 6
+Subtraction is : -4

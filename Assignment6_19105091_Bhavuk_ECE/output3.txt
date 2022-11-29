@@ -1,0 +1,12 @@
+enter num1 for addition: 1
+enter num2 for addition: 2
+Addition is : 3
+enter num1 for subtraction: 2
+enter num2 for subtraction: 3
+Subtraction is : -1
+enter num1 for multiplication: 5
+enter num2 for multiplication: 6
+Multiplication is : 30
+enter num1 for division: 20
+enter num2 for division: 2
+Division is : 10.0
